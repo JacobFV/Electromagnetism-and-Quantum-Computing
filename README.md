@@ -35,9 +35,13 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 - We will write and run some quantum computing algorithms
 
 ## Day 7 - Particle Accelerator
+- **Before class**:
+  1. [Create](https://github.com/) a github account
+  2. [make a repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
+  3. [upload](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) your quantum program from last class
 - We will work on the particle accelerator
 
 ## Day 8 - Review and Publish
 - **Before class** write 2 pages about what you learned over this 4 week course
-- Exam over what we've learned
-- We will publish our findings on multiple mediums
+- **Capstone Assignment** present a working quantum program. We will then deploy it on a physical quantum computer
+- We will publish our findings on multiple mediums (potentially including: Instructables, TowardsDataScience, Github, 
