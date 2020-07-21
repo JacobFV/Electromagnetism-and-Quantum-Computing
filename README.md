@@ -33,13 +33,15 @@ This is a fast paced introductory course to the fundementals of electromagnetism
   - [ ] Watch [this video](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
   - [ ] Read the first 5 articles ("What is a QBit" through "Hello Quantum World") [here](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing/)
 - We will write and run some quantum computing algorithms
+- Start planning your capstone quantum program
 
 ## Day 7 - Particle Accelerator
 - **Before class**:
   1. [Create](https://github.com/) a github account
   2. [make a repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
-  3. [upload](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) your quantum program from last class
+  3. [upload](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) your quantum programs from last class
 - We will work on the particle accelerator
+- Discuss any issues with your quantum program
 
 ## Day 8 - Review and Publish
 - **Before class** write 2 pages about what you learned over this 4 week course
