@@ -17,7 +17,9 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 
 ## Day(s) 3,4 - Magnetism
 
-- **Before class**: skim [this](https://www.khanacademy.org/science/ap-physics-2/ap-magnetic-forces-and-magnetic-fields)
+- **Before class**:
+  - watch [this](https://youtu.be/s94suB5uLWw), [this](https://youtu.be/pQp6bmJPU_0), [this](https://youtu.be/5fqwJyt4Lus), and finally (optional) [this](https://youtu.be/K40lNL3KsJ4)
+  - skim [this](https://www.khanacademy.org/science/ap-physics-2/ap-magnetic-forces-and-magnetic-fields)
 - We will discuss particle accelerator basics in class
 
 ## Day 5 - Quantum Science
