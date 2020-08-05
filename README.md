@@ -15,20 +15,20 @@ This is a fast paced introductory course to the fundementals of electromagnetism
   - Read this [Whirlwind introduction to DC circuits](https://www.electronicshub.org/dc-circuits-basics/). This may be helpful
 - In class we will design, [simulate](https://www.circuitlab.com/), and then build our own circuits!
 
-## Day(s) 3,4 - Magnetism
+## Day(s) 3-5 - Magnetism
 
 - **Before class**:
   - watch [this](https://youtu.be/s94suB5uLWw), [this](https://youtu.be/pQp6bmJPU_0), [this](https://youtu.be/5fqwJyt4Lus), and finally (optional) [this](https://youtu.be/K40lNL3KsJ4)
   - skim [this](https://www.khanacademy.org/science/ap-physics-2/ap-magnetic-forces-and-magnetic-fields)
 - We will discuss particle accelerator basics in class
 
-## Day 5 - Quantum Science
+## Day 6 - Quantum Science
 
 - You might want to skim [this](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) before class to better understand
 - We will discuss quantum science, high energy physics, atomic models, and particle physics
 - Begin working on [particle accelerator](https://github.com/JacobFV/particle-accelerator)
 
-## Day 6 - Quantum Computing
+## Day 7 - Quantum Computing
 
 - **Before class**:
   - [ ] Please read [this repository](https://github.com/JacobFV/Quantum-Computing) and explore the different quantum compute providers
@@ -37,7 +37,7 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 - We will write and run some quantum computing algorithms
 - Start planning your capstone quantum program
 
-## Day 7 - Particle Accelerator
+## Day 8 - Particle Accelerator
 - **Before class**:
   1. [Create](https://github.com/) a github account
   2. [make a repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
@@ -45,7 +45,7 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 - We will work on the particle accelerator
 - Discuss any issues with your quantum program
 
-## Day 8 - Review and Publish
+## Day 9 - Review and Publish
 - **Before class** write 2 pages about what you learned over this 4 week course
 - **Capstone Assignment** present a working quantum program. We will then deploy it on a physical quantum computer
 - We will publish our findings on multiple mediums (potentially including: Instructables, TowardsDataScience, Github, 
