@@ -25,8 +25,13 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 ## Day 6 - Quantum Science
 
 - You might want to skim [this](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) before class to better understand
-- We will discuss quantum science, high energy physics, atomic models, and particle physics
-- Begin working on [particle accelerator](https://github.com/JacobFV/particle-accelerator)
+- We will discuss modern physics concepts with these simulators:
+  - [magnetostatics](https://www.falstad.com/vector3dm/)
+  - [quantum oscillations](https://www.falstad.com/qm3dosc/)
+  - [atomic orbitals](https://www.falstad.com/qmatom/)
+  - [molecular wave functions](https://www.falstad.com/qmmo/)
+  - [molecule 5](https://www.myphysicslab.com/)
+- Select our [particle accelerator](https://github.com/JacobFV/particle-accelerator) design
 
 ## Day 7 - Quantum Computing
 
