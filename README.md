@@ -27,6 +27,7 @@ This is a fast paced introductory course to the fundementals of electromagnetism
 - You might want to skim [this](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) before class to better understand
 - We will discuss modern physics concepts with these simulators:
   - [magnetostatics](https://www.falstad.com/vector3dm/)
+  - [electromagnetics](https://www.falstad.com/emwave2/)
   - [quantum oscillations](https://www.falstad.com/qm3dosc/)
   - [atomic orbitals](https://www.falstad.com/qmatom/)
   - [molecular wave functions](https://www.falstad.com/qmmo/)
